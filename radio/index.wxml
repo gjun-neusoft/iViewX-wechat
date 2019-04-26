@@ -1,0 +1,10 @@
+<view class="i-class i-radio" catchtap="radioChange">
+    <i-cell i-class="i-radio-cell">
+        <label style="display:flex">
+            <radio value="{{value}}" checked="{{checked}}" color="{{checked?color:''}}" disabled="{{disabled}}" class="i-radio-radio {{positionCls}}" />
+            <view class="i-radio-title">{{title}}</view>
+        </label>
+        <slot></slot>
+    </i-cell>
+</view>
+
