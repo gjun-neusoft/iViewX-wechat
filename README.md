@@ -112,7 +112,7 @@ properties:{
 
 #### radiobox
 
-添加name、value、title属性，针对官方checkbox组件无name与title的bug做补充
+添加name、value、title属性，针对官方radiobox组件无name与title的bug做补充
 
 ```javascript
 properties:{
