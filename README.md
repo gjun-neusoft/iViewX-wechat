@@ -116,14 +116,14 @@ properties:{
 
 ```javascript
 properties:{
-    titleSize: {
-        type: Number,
-        value: 18
+    name: {
+        type: Striing,
+        value: ''
     },
-    labelSize: {
-        type: Number,
-       	value: 14
-    }
+   title: {
+       type: String,
+       value: ''
+   }
 }
 
 ```
