@@ -1,4 +1,4 @@
-![](https://repository-images.githubusercontent.com/183588214/f7bd8100-6843-11e9-9060-3ff216a4bcfa)
+
 
 ## iView-wechatX
 
